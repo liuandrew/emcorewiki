@@ -1,4 +1,4 @@
 <!-- TITLE: Help -->
-<!-- SUBTITLE: A quick summary of Help -->
+<!-- SUBTITLE: Here will be some help on using the system -->
 
-# Help me
+# Help
