@@ -4,7 +4,8 @@
 Welcome to The Emcore Documentation Wiki
 
 # Directories
-[Documentation](/documentation)
+[CATV](/catv)
+[LM](/lm)
 
 # Contributors
 Andy
