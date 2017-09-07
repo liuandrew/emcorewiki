@@ -1,8 +1,9 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: This Page Will List Out Some of the Directories -->
+<!-- SUBTITLE: How Wiki.js is currently looking -->
 
 Welcome to The Emcore Documentation Wiki
 
+This page should have a summary of the wiki, and outline the navigational structure.
 # Thoughts
 This wiki is very much just a plain and simple markdown editor and navigator. All the files are hosted on a [Github repository](https://github.com/liuandrew/emcorewiki), so file management, revision history and such are there. 
 
