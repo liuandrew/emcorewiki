@@ -12,6 +12,13 @@ We have authentication features and User access rights (can limit users to read 
 
 Overall, this wiki has essentially NO bells and whistles. It is a very minimal program made primarily for viewing, with collaborative editing handled via Git. It is good if we want to keep the documentation system clean and simple (and if we find the Git features like pull requests, branching, git issues, etc., helpful), but beyond that we will not have some additional features common to other wikis like commenting, forums, etc.
 
+### Navigation
+
+Not a huge fan of the navigation (need to click 'All Pages' in sidebar, then it loads into a new page for navigation). This could be simplified by requiring a Directory in every root and a return link in every child page. Although it's also a likely case that we won't require a lot of jumping around for the wiki, so maybe this isn't too big of a deal.
+
+### Search
+
+Wiki.js supports full text dynamic searching, which is nice.
 # Directories
 [CATV](/catv)
 [LM](/lm)
