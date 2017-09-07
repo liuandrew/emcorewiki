@@ -18,3 +18,9 @@ Overall, this wiki has essentially NO bells and whistles. It is a very minimal p
 
 # Contributors
 Andy
+
+# Header Nesting Test
+## Image Test
+![Epm 80 X 80](/uploads/epm-80-x-80.png "Epm 80 X 80")
+
+![Manual github image](/home/epm_cloud_80x80.png "cloud image")
